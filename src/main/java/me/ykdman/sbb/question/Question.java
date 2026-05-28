@@ -1,8 +1,9 @@
-package me.ykdman.sbb;
+package me.ykdman.sbb.question;
 
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
+import me.ykdman.sbb.answer.Answer;
 
 import java.time.LocalDateTime;
 import java.util.List;

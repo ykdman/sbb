@@ -1,4 +1,4 @@
-package me.ykdman.sbb;
+package me.ykdman.sbb.answer;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
